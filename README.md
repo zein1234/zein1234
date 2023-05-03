@@ -3,8 +3,8 @@ Full Stack Web Dev <br>
 
  
 
-Contact me through [Linkedin](https://www.linkedin.com/in/zain-srio)
- Contact me via email at [zein.srio@gmail.com](mailto:zein.srio@gmail.com)
+Contact me through [Linkedin](https://www.linkedin.com/in/zain-srio) <br>
+ Contact me via email at (mailto:zein.srio@gmail.com)
 
 
 
