@@ -4,8 +4,8 @@ Full Stack Web Dev <br>
  
 
 Contact me through [Linkedin](https://www.linkedin.com/in/zain-srio)
+ Contact me via email at [zein.srio@gmail.com](mailto:zein.srio@gmail.com)
 
-https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 
 🌱 Full Stack web development bootcamp, Le Wagon Berlin - Batch #1098<br>
