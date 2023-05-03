@@ -3,7 +3,8 @@ Full Stack Web Dev <br>
 
  
 
- Contact me through Linkedin
+Contact me through [Linkedin](https://www.linkedin.com/in/zain-srio)
+
 https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 
