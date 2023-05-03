@@ -1,8 +1,8 @@
 ### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **zein1234/zein1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
