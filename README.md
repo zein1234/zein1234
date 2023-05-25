@@ -9,8 +9,8 @@ Contact me via [email](mailto:zein.srio@gmail.com)
 
 
 🌱 Full Stack web development bootcamp, Le Wagon Berlin - Batch #1098<br>
-I participated in a 24 week Web Development bootcamp,I had the opportunity to work on several Ruby on Rails projects, including Parentskiez, and gained extensive experience in using both frontend and backend technologies, including Ruby, SQL, HTML, CSS, SCSS, and JavaScript. I also gained experience in using Git for version control and deploying applications on Heroku.<br>
-🔭 I’m currently working on Frontend projects
+I participated in a 24 week Web Development bootcamp,I had the opportunity to work on several Ruby on Rails projects, and gained extensive experience in using both frontend and backend technologies, including Ruby, SQL, HTML, CSS, SCSS, and JavaScript. I also gained experience in using Git for version control and deploying applications on Heroku.<br>
+
 
 Languages and Tools:<br>
 
@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🔭 I’m currently working on Frontend projects
 -->
