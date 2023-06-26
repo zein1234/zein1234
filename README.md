@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Zain
-Full Stack Web Dev <br>
+FullStack/Frontend Web Dev <br>
 
  
 
